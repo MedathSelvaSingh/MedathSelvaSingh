@@ -11,7 +11,7 @@ As a dedicated and innovative iOS Developer with one year of hands-on experience
       <h3 align="center">e-TrackSys QHSE</h3>
         <br />
         <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src=![1024](https://github.com/user-attachments/assets/1453f595-2346-485f-a049-587d122858de) width="100%" alt="NFT App"/>
+            <img src="![1024](https://github.com/user-attachments/assets/1453f595-2346-485f-a049-587d122858de) width="100%" alt="NFT App"/>
         </a>
         <br />
         <p align="center">
