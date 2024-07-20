@@ -6,11 +6,11 @@ As a dedicated and innovative iOS Developer with one year of hands-on experience
 Projects ⚙️
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">e-TrackSys QHSE</h3>
         <br />
         <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src="https://github.com/user-attachments/assets/1453f595-2346-485f-a049-587d122858de" width="100%" alt="e-TrackSys QHSE"/>
+            <img src="https://github.com/user-attachments/assets/1453f595-2346-485f-a049-587d122858de" width="50%" alt="e-TrackSys QHSE"/>
         </a>
         <br />
         <p align="center">
