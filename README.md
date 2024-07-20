@@ -9,6 +9,7 @@ Projects ⚙️
     <td width="50%" valign="top">
       <h3 align="center">e-TrackSys QHSE</h3>
         <br />
+      <p align="center">
         <a target="_blank" href="http://nftportalbyrahul.netlify.app">
             <img src="https://github.com/user-attachments/assets/1453f595-2346-485f-a049-587d122858de" width="50%" alt="e-TrackSys QHSE"/>
         </a>
