@@ -75,6 +75,7 @@ Designed and implemented a digital business card app, enhancing professional net
 
 ## **📫 Connect with Me**  
 - **LinkedIn:** (https://www.linkedin.com/in/medath-selva-singh/)  
-- **Email:** (https://www.linkedin.com/in/medath-selva-singh/)  
+- **Email:** (medathselvasinghs@gmail.com)  
+
 
 
