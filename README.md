@@ -1,135 +1,80 @@
-![apple-mac-desktop-yq14a88an5db4v5j](https://github.com/user-attachments/assets/dcc04d67-565b-4387-8ecb-b675ba8ff5d5)
+
+### 👋 Hi! I'm an iOS Developer with 1.8 years of experience in Swift and SwiftUI, specializing in developing high-performance mobile applications.
+
+# [eTracksys QHSE](https://apps.apple.com/in/app/e-tracksys-qhse/id6460692225)
+The HSE Risk QUEST App enables quick incident reporting with essential details. HSE Tracking People tracks operator locations in real time using various technologies. The HSE Non-Conformance Video Analytics system detects safety breaches like PPE violations and fire hazards. HSE Incident Reporting Tools provide advanced analytics to identify trends and improve safety.
+
+Designed and developed from scratch, focusing on user-friendly UI and smooth functionality. Led the Apple App Store submission process, ensuring a successful launch along with continuous updates, bug fixes, and new feature rollouts.
+
+<p align="left">
+<img src="https://github.com/user-attachments/assets/3cdd3803-42f5-4694-a1c5-07fb4d22ca82", width="200"/>
+<img src="https://github.com/user-attachments/assets/9b89ec70-a083-48ce-82fb-9ba182603d8f", width="200"/>
+<img src="https://github.com/user-attachments/assets/5684106e-4670-4189-ab5f-dad3bff046c2", width="200"/>
+<img src="https://github.com/user-attachments/assets/bc6f7ead-7e1d-4cd6-b621-1a74a84cbd4e", width="200"/>
+<img src="https://github.com/user-attachments/assets/fc7293e5-128d-4fb7-aed4-2e62075504c4", width="200"/>
+</p>
+
+**Tech Used**
+- Swift
+- Core Data
+- REST API's
+- Firebase Notification
+- App Storage
+- Customized UI 
 
 
+# [TAR System](https://apps.apple.com/in/app/tar-system/id6448125946)
+This app lets you verify the authenticity of wines with a TAR seal using your smartphone’s NFC reader. It ensures complete traceability from production to sale, provides consumer reviews, offers food pairing recommendations from the winery, and exclusive promotions for users who scan the TAR label. Advanced technology guarantees authenticity, with each bottle having a unique code for direct feedback to the winery.
 
-As a dedicated and innovative iOS Developer with one year of hands-on experience, I have successfully contributed to the design, development, and maintenance of high-quality mobile applications. Proficient in Swift and knowledgeable in Objective-C, I have demonstrated expertise in building user-friendly interfaces, integrating third-party APIs, and ensuring optimal app performance. My background includes collaborating effectively with cross-functional teams, adhering to best coding practices, and continuously seeking to enhance my skills in the ever-evolving landscape of iOS development. I am passionate about leveraging my technical skills and creativity to deliver seamless and impactful user experiences.
-Projects ⚙️
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">e-TrackSys QHSE</h3>
-        <br />
-      <p align="center">
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src="https://github.com/user-attachments/assets/1453f595-2346-485f-a049-587d122858de" width="50%" alt="e-TrackSys QHSE"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-          <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-          </a>  
-          <a href="http://nftportalbyrahul.netlify.app" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-        </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform: A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Wave Portal</h3>
-        <br />
-        <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/waveportal.jpg" width="100%" alt="Wave Portal"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-          <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-          </a> 
-          <a href="https://waveatrahul.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-        </p>
-        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal: A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio App</h3>
-      <br />
-      <a target="_blank" href="https://rahulkarda.netlify.app">
-        <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
-      </a>
-      <br />
-      <p align="center">
-        <br>
-        <a href="https://github.com/rahulkarda/Portfolio" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="http://rahulkarda.netlify.app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">NASA Astronomy Picture of the Day</h3>
-        <br />
-        <a target="_blank" href="https://github.com/rahulkarda/NASA-APOD">
-          <img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-          <a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-          </a>
-          <a href="https://apodbyrahul.netlify.app" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-        </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - With over 10,000 different images, pick a date to get the NASA Astronomy Picture of the Day!</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Web Postman</h3>
-      <br />
-      <a target="_blank" href="https://webpostman.netlify.app">
-        <img src="images/webpostman.jpg" width="100%" alt="Web Postman"/>
-      </a>
-      <br />
-      <p align="center">
-        <br>
-        <a href="https://github.com/rahulkarda/Web-Postman" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="http://webpostman.netlify.app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, Javascript & PrismJs</strong> - A Web interface to easily create GET and POST requests to test and document APIs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">IP Address Tracker</h3>
-        <br />
-        <a target="_blank" href="https://github.com/rahulkarda/IP-Address-Tracker">
-          <img src="images/iptracker.jpg" width="100%" alt="IP Address Tracker"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-          <a href="https://github.com/rahulkarda/IP-Address-Tracker" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-          </a>
-          <a href="https://trackmyip.netlify.app" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-        </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - Tracks your IP Address and generates the live location on map.</p>
-    </td>
-  </tr>
-</table>
+Conceptualized and developed the app with a strong focus on ease of use and optimal performance. Oversaw the Apple App Store submission, ensuring a smooth launch, and maintained the app with ongoing updates, bug fixes, and the implementation of new features to continuously improve user satisfaction.
+
+<p align="left">
+<img src="https://github.com/user-attachments/assets/0ff25ba1-9b24-4607-9484-36c65f45a864", width="200"/>
+<img src="https://github.com/user-attachments/assets/92388a2e-721a-4f44-89c3-e6dee1afb17e", width="200"/>
+<img src="https://github.com/user-attachments/assets/4910e57b-0a97-4cac-b178-4c6a1dd5d550", width="200"/>
+<img src="https://github.com/user-attachments/assets/8f34a597-dab9-4860-8c11-2a165e944509", width="200"/>
+<img src="https://github.com/user-attachments/assets/287b8118-f018-4724-97f4-7e959361b20a", width="200"/>
+</p>
+
+**Tech Used**
+- Swift
+- Core NFC
+- Location Access
+- REST API's
+- Social SignUp (Firebase Auth)
+
+# [TAR Store](https://apps.apple.com/in/app/tar-store/id6737254181) 
+Developed a wine store app featuring winery details, exclusive promotions, and a marketplace for finding nearby deals. Delivered a seamless and secure user experience using NFC technology.
+<p align="left">
+<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/135ae12603fde02b9b69eeaa7b4ee21647379e76/Dashboard.png", width="200"/>
+<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/f0457a652f616d48d894195de1c20925810e1dc2/ProductList.png", width="200"/>
+<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/f0457a652f616d48d894195de1c20925810e1dc2/Profile.png", width="200"/>
+<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/f0457a652f616d48d894195de1c20925810e1dc2/ScannedProductList.png", width="200"/>
+<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/f0457a652f616d48d894195de1c20925810e1dc2/Settings.png", width="200"/>
+</p>
+
+**Tech Used:**  
+- Swift  
+- Core NFC   
+- REST API's  
+
+# [Zeal Biz](https://apps.apple.com/in/app/zealbiz/id1547217969)
+Designed and implemented a digital business card app, enhancing professional networking with NFC-based contact sharing.
+<p align="left">
+<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/80cd2e2d410f2818a21aa44d70f71a9472afc801/WhatsApp%20Image%202025-04-03%20at%2020.32.25%20(1).jpeg", width="200"/>
+<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/80cd2e2d410f2818a21aa44d70f71a9472afc801/WhatsApp%20Image%202025-04-03%20at%2020.32.25.jpeg", width="200"/>
+  <img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/80cd2e2d410f2818a21aa44d70f71a9472afc801/WhatsApp%20Image%202025-04-03%20at%2020.32.24.jpeg", width="200"/>
+</p>
+
+**Tech Used:**  
+- Swift  
+- Core NFC  
+- QR Code Integration  
+- Firebase Auth
+- Screen Time
+
+## **📫 Connect with Me**  
+- **LinkedIn:** (https://www.linkedin.com/in/medath-selva-singh/)  
+- **Email:** (https://www.linkedin.com/in/medath-selva-singh/)  
 
 
-<!---
-MedathSelvaSingh/MedathSelvaSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
